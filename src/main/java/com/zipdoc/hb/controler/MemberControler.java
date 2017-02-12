@@ -84,6 +84,6 @@ public class MemberControler {
 		result.put("result", "ok");
 		return result;
 	}
-	
+
 
 }
