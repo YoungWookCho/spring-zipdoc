@@ -18,8 +18,4 @@ public class MainService {
 	public String headerGet() {
 		return headerDetails;
 	}
-	
-	
-	
-
 }
